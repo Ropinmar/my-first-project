@@ -1,0 +1,38 @@
+.title {
+    height: 100px;
+    width: auto;
+}
+
+.button {
+    width: 75px;
+    border-radius: 50%;
+    margin: 10px;
+}
+
+body {
+    padding: 30px;
+    background: #ff9966;
+    background: -webkit-linear-gradient(to right, #ff5e62, #ff9966);
+    background: linear-gradient(to right, #ff5e62, #ff9966);
+
+}
+
+#pokemon {
+    background-color: white;
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;   
+    margin: 30px;
+}
+
+.center {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    flex-direction: column;
+}
+
+.pokePics {
+    width: 280px;
+    height: 280px;
+}
